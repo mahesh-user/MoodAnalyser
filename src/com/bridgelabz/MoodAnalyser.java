@@ -1,10 +1,12 @@
 package com.bridgelabz;
+//purpose: This class is to analyse the mood of the user
 
+//Auther:mahesh babu
 public class MoodAnalyser {
     enum msg{
         NULL,EMPTY;
     }
-    //class variables
+
     String message;
 
     /**
