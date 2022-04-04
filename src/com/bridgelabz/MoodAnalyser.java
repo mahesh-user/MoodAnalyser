@@ -32,7 +32,7 @@ public class MoodAnalyser {
      */
 
     public String analyseMood() {
-        //Checking the condition
+
         msg m1 = msg.NULL;
         msg m2 = msg.EMPTY;
         try {
